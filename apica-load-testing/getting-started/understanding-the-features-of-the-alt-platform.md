@@ -1,6 +1,6 @@
 # Understanding the Features of the ALT Platform
 
-Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
+Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-07-10 at 4.31.53 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@ Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
         * Infrastructure monitor agent configuration
         * [Application Performance Management ](https://apica-kb.atlassian.net/wiki/pages/createpage.action?spaceKey=GLOS\&title=Application%20Performance%20Management)integration configuration
         * Test instance name (The name of the test results from a scenario test and must be unique to each project.)
-      *   **Jobs**: Find all your [jobs](https://apica-kb.atlassian.net/wiki/pages/createpage.action?spaceKey=GLOS\&title=Job) here (Running, scheduled, and finished), with status for every job. Filter on projects, instances, or just do a search. Live results of Jobs can be reached by clicking on the link for a running job:
+      *   **Jobs**: Find all your [jobs](https://apica-kb.atlassian.net/wiki/pages/createpage.action?spaceKey=GLOS\&title=Job) here (Running, scheduled, and finished), with status for every job. Filter on projects, instances, or just do a search. Live results of Jobs can be reached by clicking on the link for a running job.
 
           &#x20;
 
@@ -25,7 +25,8 @@ Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
           <figure><img src="https://loadtest.apicasystem.com/Images/tooltips/jobs.png" alt=""><figcaption></figcaption></figure>
 
           </div>
-    *   **Reports**: Create custom reports. Add the metric(s) you want to use in your report. If you want to compare that metric with other metrics, select several metrics, and add them to the same chart. To add several metrics to separate charts uncheck the checkbox labeled "Add to the Same Chart":
+    *   **Reports**: Create custom reports. Add the metric(s) you want to use in your report. If you want to compare that metric with other metrics, select several metrics, and add them to the same chart. To add several metrics to separate charts uncheck the checkbox labeled "Add to the Same Chart"\
+
 
         <div align="left">
 
@@ -44,7 +45,8 @@ Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
           * Add/Remove a Logo
           * Add Header and Footer Text
         * **Setup**
-          *   **Monitoring Agents**: By using Monitoring Agents that are installed on your servers and collect metrics while you are running the loadtest you gain more insight from your environment. The agents are active only when your loadtest is actively running:
+          *   **Monitoring Agents**: By using Monitoring Agents that are installed on your servers and collect metrics while you are running the loadtest you gain more insight from your environment. The agents are active only when your loadtest is actively running.\
+
 
               <div align="left">
 
@@ -57,7 +59,8 @@ Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
                 * Create a new Agent (and add it to a group). _NOTE: A new Authorization Ticket will be created for each monitoring agent._
 
               <figure><img src="https://loadtest.apicasystem.com/Images/tooltips/monitor_agents.png" alt=""><figcaption></figcaption></figure>
-        *   Integration Settings
+        *   Integration Settings\
+
 
             <div align="left">
 
@@ -81,7 +84,7 @@ Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
               * URL
               * User Name
               * Is Active?
-        * **Continuous Integration** With load testing in the Continuous Integration (CI) or Continuous Deployment (CD) process, you can be aware of your releases' performance earlier, before reaching production. And you can follow trends here by dividing every scenario's result into its own Test-Instance:\
+        * **Continuous Integration** With load testing in the Continuous Integration (CI) or Continuous Deployment (CD) process, you can be aware of your releases' performance earlier, before reaching production. And you can follow trends here by dividing every scenario's result into its own Test-Instance.\
 
 
         <figure><img src="../../.gitbook/assets/a6ceba8a-bd55-471c-842f-90e787402aef (1).png" alt=""><figcaption></figcaption></figure>
@@ -92,10 +95,11 @@ Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
           * Select the Project
           * Select the Loadtest Script
           * Select the Test Instance
-        *   **Avg. Session Time** compares the Average Session time for selected CI/CD metrics:
+        *   **Avg. Session Time** compares the Average Session time for selected CI/CD metrics.\
+
 
             <figure><img src="../../.gitbook/assets/79e162e1-83e5-4702-8d16-fb888bb4b706.png" alt=""><figcaption></figcaption></figure>
-        * **Scenario Manager**:
+        * **Scenario Manager:**
 
         <div align="left">
 
@@ -131,12 +135,12 @@ Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
           * Delete User
       * **Messages**: LTP system messages and announcements for users and customers with message active time period, with the importance (Critical, High, Low)
         * Available Admin Actions include Editing and deleting the Message
-      *   **Upload Result**: This is for uploading Prx Test Results (PRXRES data files) for inclusion in a project:
+      *   **Upload Result**: This is for uploading Prx Test Results (PRXRES data files) for inclusion in a project.
 
 
 
           <figure><img src="../../.gitbook/assets/ce90c402-1764-491c-8fe5-6c32e828d758.png" alt=""><figcaption></figcaption></figure>
-      *   **Monitoring Agents**: Set up a new Linux agent in the database:\
+      *   **Monitoring Agents**: Set up a new Linux agent in the database.\
 
 
 
@@ -179,7 +183,7 @@ Navigate to [https://alt-eu.apica.io/](https://alt-eu.apica.io/) to log in:
 
               <figure><img src="../../.gitbook/assets/4423f232-d079-4e75-98f8-9d7b8ebfb809.png" alt=""><figcaption></figcaption></figure>
         * Tab 3: **Datacenters** where you can filter for and edit datacenters by Name, Geolocation, Coordinates, if Mobile, Locale (i.e. Language). Optionally you can Add a New Datacenter or edit an existing
-          *   Example: we want to edit the Amsterdam DC. _All Orange asterisks are mandatory fields:_
+          *   Example: we want to edit the Amsterdam DC. _All Orange asterisks are mandatory fields._
 
               <div align="center">
 
